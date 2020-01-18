@@ -8,7 +8,7 @@ const verify=require('chai').expect;
 
 
 var flag;
-var err;
+var err
 
 describe("login", function () {
     beforeEach(function () {
