@@ -1,0 +1,31 @@
+{
+  "name": "affogato",
+  "version": "1.0.0",
+  "description": "my afogato framework creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "webdriverio"
+  ],
+  "author": "manjunath",
+  "license": "ISC",
+  "dependencies": {
+    "appendjson": "0.1.2",
+    "chai": "4.2.0",
+    "date-and-time": "0.4.0",
+    "exceljs": "0.2.46",
+    "fs": "0.0.1-security",
+    "jsonfile": "5.0.0",
+    "moment": "2.24.0",
+    "node-xlsx": "0.7.4",
+    "properties-reader": "0.0.5",
+    "selenium-standalone": "6.0.1",
+    "wdio-mocha-framework": "0.5.8",
+    "wdio-selenium-standalone-service": "0.0.8",
+    "webdriverio": "4.6.2"
+  }
+}
