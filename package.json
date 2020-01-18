@@ -17,7 +17,7 @@
     "appendjson": "0.1.2",
     "chai": "4.2.0",
     "date-and-time": "0.4.0",
-    "exceljs": "0.2.46",
+    "exceljs": "3.6.0",
     "fs": "0.0.1-security",
     "jsonfile": "5.0.0",
     "moment": "2.24.0",
